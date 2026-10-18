@@ -105,5 +105,8 @@ Recommendations displayed
 │ • Precautions                  │
 │ • Medications                  │
 │ • Diet                         │
-│ • Workout                      │
+│ • Workout
+              │
+
+thank you 
 └────────────────────────────────┘
